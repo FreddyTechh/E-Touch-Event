@@ -260,7 +260,7 @@ input, textarea, select { font-family: var(--font-body); }
   flex-direction: column;
   gap: 5px;
   padding: 6px;
-  margin-left: 12px;
+  margin-left: auto;
 }
 
 .hamburger span {
